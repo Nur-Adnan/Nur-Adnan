@@ -1,6 +1,9 @@
+![Web Developer, Competitive Programmer](https://media-exp1.licdn.com/dms/image/C5616AQEOUF2GSlJ-GA/profile-displaybackgroundimage-shrink_350_1400/0/1653956509632?e=1659571200&v=beta&t=QzWPMTcNfoS3DVO7WYEu5LeD0jb1abGMhAA-FTVd9b4)
+
+
 ### Hi there 👋, I'm Nur Adnan Chowdhury
 #### Web Developer, Competitive Programmer
-![Web Developer, Competitive Programmer](https://media-exp1.licdn.com/dms/image/C5616AQEOUF2GSlJ-GA/profile-displaybackgroundimage-shrink_350_1400/0/1653956509632?e=1659571200&v=beta&t=QzWPMTcNfoS3DVO7WYEu5LeD0jb1abGMhAA-FTVd9b4)
+
 
 I am a Bangladeshi web developer who works with the MERN stack.
 For clients all across the world, I work as a freelance web developer to offer excellent results. Interning as a software developer at some foundations was a great experience for me, and I'm always on the lookout for new challenges.
