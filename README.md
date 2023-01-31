@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer, Competitive Programmer</h3>
 
 
-![Web Developer, Competitive Programmer](https://media-exp1.licdn.com/dms/image/C5616AQEOUF2GSlJ-GA/profile-displaybackgroundimage-shrink_350_1400/0/1653956509632?e=1659571200&v=beta&t=QzWPMTcNfoS3DVO7WYEu5LeD0jb1abGMhAA-FTVd9b4)
+![Web Developer, Competitive Programmer]
 
 
 - 🔭 I’m currently working on **Upwork**
