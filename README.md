@@ -1,4 +1,4 @@
-<img align=”right” alt=”Coding” width=”400” src="https://drive.google.com/file/d/1KZtfO_hjafpf6bpZcUHTrwa3eO4Q1O4m/view?usp=sharing"/>
+<img align=”right” alt=”Coding” width=”400” src="https://ibb.co/XxKHFFQ"/>
 <h1 align="center">Hi 👋, I'm Nur Adnan Chowdhury</h1>
 <h3 align="center">Web Developer, Competitive Programmer</h3>
 
