@@ -11,7 +11,6 @@
 Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node.js, & Express.js 🌍 | Building High-Performance Dynamic Web App with React, Redux, Next.js, Tailwind CSS, Node.js, & Express.js 🎨 </strong>
 </div>
 <br/>
-<br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/nur-adnan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://medium.com/@nur-adnan"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white" alt="Medium Badge"/></a>
