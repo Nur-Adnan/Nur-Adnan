@@ -34,7 +34,6 @@ const nurAdnan = {
   challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
 }
 ```
-<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
