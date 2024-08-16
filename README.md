@@ -20,8 +20,6 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
   <a href="mailto:nuradnanchowdhury015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 
-<br/>
-
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <div align="center">
