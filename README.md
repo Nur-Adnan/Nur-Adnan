@@ -19,3 +19,18 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
   <a href="https://instagram.com/nur_adnan"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="mailto:nuradnanchowdhury015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
+
+```javascript
+const nurAdnan = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: ["React", "Redux", "Node.js", "Styled-Components", "Jest", "Docker"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "East-West-University",
+    speaker: "English",
+    mentor: "Web Developer"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+}
+```
