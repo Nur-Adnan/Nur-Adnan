@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <strong>Full Stack Web Developer</strong> <br />
+  <strong>Full Stack Web Developer
   Expert in JavaScript, React.js, Typescript, Node.js, & Express.js <br />
-  Building High-Performance Web Apps with React, Redux, Next.js, Tailwind CSS, Node.js, & Express.js
+  Building High-Performance Web Apps with React, Redux, Next.js, Tailwind CSS, Node.js, & Express.js </strong>
 </div>
