@@ -20,20 +20,7 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
   <a href="mailto:nuradnanchowdhury015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 <br/>
-```javascript
-const nurAdnan = {
-  pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  tools: ["React", "Redux", "Node.js", "Styled-Components", "Jest", "Docker"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-    coorganizer: "East-West-University",
-    speaker: "English",
-    mentor: "Web Developer"
-  },
-  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
-}
-```
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -68,3 +55,19 @@ const nurAdnan = {
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
+
+```javascript
+const nurAdnan = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: ["React", "Redux", "Node.js", "Styled-Components", "Jest", "Docker"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "East-West-University",
+    speaker: "English",
+    mentor: "Web Developer"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+}
+```
+
