@@ -22,7 +22,7 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 
 <br/>
 
-<div align="center">🔥 Languages & Frameworks & Tools 🔥</div>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <div align="center">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -44,6 +44,7 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 </div>
 
 <br/>
+
 ```javascript
 const nurAdnan = {
   pronouns: "he/him",
