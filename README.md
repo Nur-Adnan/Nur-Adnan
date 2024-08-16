@@ -6,3 +6,8 @@
   </a>
 </h1>
 
+<div align="center">
+  <strong>Full Stack Web Developer</strong> <br />
+  Expert in JavaScript, React.js, Typescript, Node.js, & Express.js <br />
+  Building High-Performance Web Apps with React, Redux, Next.js, Tailwind CSS, Node.js, & Express.js
+</div>
