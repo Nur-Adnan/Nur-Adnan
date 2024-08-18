@@ -55,8 +55,9 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 </div>
 
-### My Top Projects
-<table>
+### My Top Projects: 
+
+<table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -69,17 +70,17 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
   <tbody>
     <tr>
       <td><a href="https://github.com/Nur-Adnan/SaaS-Notion-Clone"><b>SaaS Notion Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Nur-Adnan//SaaS-Notion-Clone?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Nur-Adnan/SaaS-Notion-Clone?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Nur-Adnan/SaaS-Notion-Clone?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Nur-Adnan/SaaS-Notion-Clone?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nur-Adnan/SaaS-Notion-Clone?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/Nur-Adnan/MERN-Stack-Chat-App"><b>MERN Stack Chat Application</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Nur-Adnan/MERN-Stack-Chat-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Nur-Adnan/MERN-Stack-Chat-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Nur-Adnan/MERN-Stack-Chat-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nur-Adnan/MERN-Stack-Chat-App?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Nur-Adnan/MERN-Stack-E-commerce"><b>MERN Stack E-commerce</b></a></td>
