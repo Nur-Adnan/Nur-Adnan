@@ -21,7 +21,7 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 </div>
 >
 
-<img align="right" height="250" width="375" alt="" src="./10_coding_dribbble.gif" />
+<img align="right" height="250" width="375" alt="" src="./gifs/10_coding_dribbble.gif" />
 
 ### Talking about Personal Stuff:
 
