@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?Nur-Adnan=Nur-Adnan&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Nur-Adnan&style=flat-square)
 <img align=”right” alt=”Coding” width=”400” src="./nur_adnan.png"/>
 
 <h1 align="center">
