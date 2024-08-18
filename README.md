@@ -14,7 +14,7 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 <div align="center">
   <a href="https://www.linkedin.com/in/nur-adnan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://medium.com/@nur-adnan"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white" alt="Medium Badge"/></a>
-  <a href="https://jessicalim.me"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
+  <a href="https://"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
   <a href="https://x.com/NurAdnanChowdhu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://instagram.com/nur_adnan"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="mailto:nuradnanchowdhury015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
@@ -26,14 +26,8 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring Blockchain etc.
+- 🚀 &nbsp; I’m currently exploring Blockchain.
 - 📫 &nbsp; Reach me out: nuradnanchowdhury015@gmail.com.
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
-
 
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
