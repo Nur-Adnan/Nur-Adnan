@@ -29,6 +29,8 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 - 🚀 &nbsp; I’m currently exploring Blockchain.
 - 📫 &nbsp; Reach me out: nuradnanchowdhury015@gmail.com.
 
+</br>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <div align="center">
