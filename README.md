@@ -55,43 +55,6 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 </div>
 
-### My Top Projects: 
-
-<table align="center">
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Nur-Adnan/SaaS-Notion-Clone"><b>SaaS Notion Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Nur-Adnan/SaaS-Notion-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Nur-Adnan/SaaS-Notion-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Nur-Adnan/SaaS-Notion-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nur-Adnan/SaaS-Notion-Clone?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/Nur-Adnan/MERN-Stack-Chat-App"><b>MERN Stack Chat Application</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Nur-Adnan/MERN-Stack-Chat-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Nur-Adnan/MERN-Stack-Chat-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Nur-Adnan/MERN-Stack-Chat-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nur-Adnan/MERN-Stack-Chat-App?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Nur-Adnan/MERN-Stack-E-commerce"><b>MERN Stack E-commerce</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
 <br/>
 
 ```javascript
