@@ -54,9 +54,6 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 </div>
-
-<br/>
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
