@@ -32,6 +32,7 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
+<hr/>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <div align="center">
