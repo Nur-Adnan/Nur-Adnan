@@ -20,7 +20,7 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
   <a href="mailto:nuradnanchowdhury015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 >
-<h2 align="center">
+<h4 align="center">
   Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
   <br>
   <br>
@@ -39,7 +39,7 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
-</h2>
+</h4>
 
 
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
