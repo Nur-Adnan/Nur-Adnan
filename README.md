@@ -24,56 +24,23 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="images/javascript.svg" alt="JavaScript" height="30"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Problem_solving" target="_blank">
-    <img src="images/problemSolving.png" alt="Problem Solving" height="30"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="images/html5.svg" alt="HTML5" height="30"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="images/css.svg" alt="CSS" height="30"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="images/sass.svg" alt="SASS" height="30"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="images/react-original.svg" alt="React" height="30"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="images/redux.svg" alt="Redux" height="30"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="images/git-original.svg" alt="Git" height="30"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="images/postgresql.svg" alt="PostgreSQL" height="30"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="images/vscode.png" alt="Visual Studio Code" height="30"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="images/visualstudio.png" alt="Microsoft Visual Studio" height="30"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="images/jquery-original.svg" alt="jQuery" height="30"/>
-  </a>
-  <a href="https://www.json.org/json-en.html" target="_blank">
-    <img src="images/json.svg" alt="JSON" height="30"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="images/github.svg" alt="GitHub" height="30"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="images/mysql.svg" alt="MySQL" height="30"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="images/npm.svg" alt="npm" height="30"/>
-  </a>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
 </div>
-
 
 <br/>
 
