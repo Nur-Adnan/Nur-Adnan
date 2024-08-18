@@ -24,9 +24,9 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, TS, AWS,</strong>etc.
-- 🚀 &nbsp; I’m currently exploring Blockchain.
-- 📫 &nbsp; Reach me out: nuradnanchowdhury015@gmail.com.
+- 🛠 &nbsp; I’m currently working with <strong>JS, TS, AWS.</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Blockchain.</strong>
+- 📫 &nbsp; Reach me out: <strong>nuradnanchowdhury015@gmail.com.</strong>
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
