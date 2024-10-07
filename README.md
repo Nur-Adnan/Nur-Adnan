@@ -62,8 +62,8 @@ Full Stack Web Developer 👋 | Expert in JavaScript, React.js, Typescript, Node
 ```javascript
 const nurAdnan = {
   pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  tools: ["React", "Redux", "Node.js", "Styled-Components", "Jest", "Docker"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Redux", "Next", "Node.js", "Styled-Components", "Jest", "Docker"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
     coorganizer: "East-West-University",
