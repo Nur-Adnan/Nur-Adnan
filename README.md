@@ -27,7 +27,7 @@
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with <strong>JS, TS, React, Node, Express MongoDB & AWS.</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>Blockchain, Solidity</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Blockchain, Solidity, Solana</strong>
 - 📫 &nbsp; Reach me out: <strong>nuradnanchowdhury015@gmail.com.</strong>
 
 ### My Absolute Favorites:
