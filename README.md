@@ -10,7 +10,7 @@
 
 <div align="center">
   <strong>Professional Full Stack Web Developer
-👋 | Expert in JavaScript, React.js, Typescript, Node.js, Express.js, & MongoDB 🌍 | Building High-Performance Dynamic Web App with React, Redux, Next.js, Tailwind CSS, Node.js, Express.js & MongoDB 🎨 </strong>
+👋 | Expert in JavaScript, React.js, Typescript, Node.js, Express.js, Postgres & MongoDB 🌍 | Building High-Performance Dynamic Web App with React, Redux, Next.js, Tailwind CSS, Node.js, Express.js & MongoDB 🎨 </strong>
 </div>
 <br/>
 <div align="center">
