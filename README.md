@@ -22,7 +22,7 @@
   <a href="mailto:nuradnanchowdhury015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 <hr/>
-<img align="right" height="250" width="250" alt="" src="./gifs/10_coding_dribbble.gif" />
+<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
 
 ### Talking about Personal Stuff:
 
