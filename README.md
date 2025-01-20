@@ -8,9 +8,9 @@
   </a>
 </h1>
 
+
 <div align="center">
-  <strong>Professional Full Stack Web Developer
-👋 | Expert in JavaScript, React.js, Typescript, Node.js, Express.js, Postgres & MongoDB 🌍 | Building High-Performance Dynamic Web App with React, Redux, Next.js, Tailwind CSS, Node.js, Express.js & MongoDB 🎨 </strong>
+  <strong>Full Stack Engineer 👋 | Expert in React.js, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Blockchain Enthusiast & IEEE Researcher 💡</strong>
 </div>
 <br/>
 <div align="center">
