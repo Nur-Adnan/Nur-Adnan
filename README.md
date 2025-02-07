@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <strong>Full Stack Web Engineer 👋 | Expert in JavaScript, React.js, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Blockchain Enthusiast & IEEE Researcher 💡</strong>
+  <strong>Full Stack Web Engineer 👋 | Expert in JavaScript, React.js, React Native, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Blockchain Enthusiast & IEEE Researcher 💡</strong>
 </div>
 <br/>
 <div align="center">
