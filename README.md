@@ -20,22 +20,22 @@ Based in Daejeon, South Korea (UTC+9). Open to remote full-stack, frontend and R
 
 ## Selected work
 
-**[ReadLoudly](https://readloudly.com)** · production, closed source
+**[ReadLoudly](https://readloudly.com)** · production, closed source<br>
 Led a phased redesign of the web app on Next.js 15 and React 19, with a design-token layer and visual regression testing so a full frontend rewrite could ship without changing behavior. Also shipped AI-powered PDF processing, authentication and real-time features.
 
-**[Duster](https://github.com/Nur-Adnan/Duster)** · Go, open source
+**[Duster](https://github.com/Nur-Adnan/Duster)** · Go, open source<br>
 A zero-dependency disk cleaner and maintenance CLI for Windows developers. Dry-run previews for every destructive command, a 7-day restore quarantine, WSL 2 and Docker disk compaction, CI-tested releases with a SHA-256-verified self-updater, plus a WinUI 3 desktop app. [Website](https://duster-theta.vercel.app)
 
-**[Salon & Spa Platform](https://github.com/Nur-Adnan/salon-management)** · NestJS, Next.js, MongoDB, Redis
+**[Salon & Spa Platform](https://github.com/Nur-Adnan/salon-management)** · NestJS, Next.js, MongoDB, Redis<br>
 A multi-tenant ERP, POS, CRM and booking system built as a NestJS modular monolith with two Next.js apps in a Turborepo. MongoDB transactions back the double-booking guarantee and idempotent checkout, and all money is handled as integer minor units.
 
-**[PulseGuard](https://github.com/Nur-Adnan/DevTools)** · Next.js, Prisma, PostgreSQL
+**[PulseGuard](https://github.com/Nur-Adnan/DevTools)** · Next.js, Prisma, PostgreSQL<br>
 A logging and error-tracking platform: an ingestion API with hashed API keys, a TypeScript SDK, SHA-256 error fingerprinting and grouping, and a dashboard with cursor-based pagination.
 
-**[create-app CLI](https://github.com/Nur-Adnan/create-app-cli)** · TypeScript, Node.js
+**[create-app CLI](https://github.com/Nur-Adnan/create-app-cli)** · TypeScript, Node.js<br>
 An interactive scaffolder that generates runnable React, Next.js, Express and MERN projects. Tested with Vitest and fast-check property-based tests.
 
-**[VTCompress](https://github.com/Nur-Adnan/video-compressor)** · Swift, macOS
+**[VTCompress](https://github.com/Nur-Adnan/video-compressor)** · Swift, macOS<br>
 A native macOS app that re-encodes video on the Apple Silicon Media Engine and never goes below a measured VMAF quality threshold.
 
 ## Research and teaching
