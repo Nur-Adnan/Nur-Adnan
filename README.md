@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Nur-Adnan&style=for-the-badge)
 
-<img align=”right” alt=”Coding” width=”400” src="./nur_adnan.png"/>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img width="4950" height="1238" alt="nur_adnan_chowdhury_anik_full_stack_engineer" src="https://github.com/user-attachments/assets/6744efda-1e2a-4675-b924-dbea60465109" />
