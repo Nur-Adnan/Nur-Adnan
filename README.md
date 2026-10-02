@@ -1,75 +1,49 @@
-![](https://komarev.com/ghpvc/?username=Nur-Adnan&style=for-the-badge)
+<img src="https://github.com/user-attachments/assets/6744efda-1e2a-4675-b924-dbea60465109" alt="Nur Adnan Chowdhury, Full-Stack Engineer" width="100%" />
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img width="4950" height="1238" alt="nur_adnan_chowdhury_anik_full_stack_engineer" src="https://github.com/user-attachments/assets/6744efda-1e2a-4675-b924-dbea60465109" />
-  </a>
-</h1>
+# Hi, I'm Adnan
 
+**Full-Stack Engineer** building production web and mobile apps with TypeScript, React, Next.js, React Native and Node.js.
 
-<div align="center">
-  <strong>Full Stack Web Engineer 👋 | Expert in JavaScript, React.js, React Native, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Blockchain Enthusiast & IEEE Researcher 💡</strong>
-</div>
-<br/>
-<div align="center">
-  <a href="https://www.linkedin.com/in/nur-adnan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://app.daily.dev/nuradnan"><img src="https://img.shields.io/badge/-Daily%20Dev-000000?style=flat&logo=daily.dev&logoColor=white" alt="Daily Dev Badge"/></a>
-  <a href="https://nur-adnan-chowdhury.web.app"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
-  <a href="https://x.com/NurAdnanChowdhu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://hashnode.com/@NurAdnan60"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white" alt="Hashnode Badge"/></a>
-  <a href="mailto:nuradnanchowdhury015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
-</div>
-<hr/>
-<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
+Since 2024 I've worked remotely with a US team at [ReadLoudly](https://readloudly.com), a platform that turns PDFs and other documents into audiobooks. I joined as a frontend developer and now own features end to end: REST API design, PostgreSQL and MongoDB schemas, the React and React Native UI, testing, deployment and maintenance after release.
 
-### Talking about Personal Stuff:
+Based in Daejeon, South Korea (UTC+9). Open to remote full-stack, frontend and React Native roles, full-time or contract.
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, TS, React, Node, Express MongoDB, SQL & AWS.</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>Golang, Blockchain, Rust, Solidity, Solana.</strong>
-- 📫 &nbsp; Reach me out: <strong>nuradnanchowdhury015@gmail.com.</strong>
+[Portfolio](https://adnan-chowdhury.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nur-adnan/) · [X](https://x.com/NurAdnanChowdhu) · [Email](mailto:nuradnanchowdhury015@gmail.com)
 
-### My Absolute Favorites:
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+## What I work with
 
-<hr/>
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, TanStack Query, Zustand, shadcn/ui
+- **Mobile:** React Native, Expo
+- **Backend:** Node.js, Express, NestJS, Hono, REST APIs, Socket.IO, Prisma
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Tooling:** Go, Docker, GitHub Actions, Turborepo, Vitest, Jest, Playwright
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+## Selected work
 
-<div align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-</div>
+**[ReadLoudly](https://readloudly.com)** · production, closed source
+Led a phased redesign of the web app on Next.js 15 and React 19, with a design-token layer and visual regression testing so a full frontend rewrite could ship without changing behavior. Also shipped AI-powered PDF processing, authentication and real-time features.
 
-<br/>
+**[Duster](https://github.com/Nur-Adnan/Duster)** · Go, open source
+A zero-dependency disk cleaner and maintenance CLI for Windows developers. Dry-run previews for every destructive command, a 7-day restore quarantine, WSL 2 and Docker disk compaction, CI-tested releases with a SHA-256-verified self-updater, plus a WinUI 3 desktop app. [Website](https://duster-theta.vercel.app)
 
-```javascript
-const nurAdnan = {
-  pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Redux", "Next", "Node.js", "Styled-Components", "Jest", "Docker", "Kubernetes"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-    coorganizer: "East-West-University",
-    speaker: "English",
-    mentor: "Web Developer"
-  },
-  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
-}
-```
+**[Salon & Spa Platform](https://github.com/Nur-Adnan/salon-management)** · NestJS, Next.js, MongoDB, Redis
+A multi-tenant ERP, POS, CRM and booking system built as a NestJS modular monolith with two Next.js apps in a Turborepo. MongoDB transactions back the double-booking guarantee and idempotent checkout, and all money is handled as integer minor units.
 
+**[PulseGuard](https://github.com/Nur-Adnan/DevTools)** · Next.js, Prisma, PostgreSQL
+A logging and error-tracking platform: an ingestion API with hashed API keys, a TypeScript SDK, SHA-256 error fingerprinting and grouping, and a dashboard with cursor-based pagination.
 
+**[create-app CLI](https://github.com/Nur-Adnan/create-app-cli)** · TypeScript, Node.js
+An interactive scaffolder that generates runnable React, Next.js, Express and MERN projects. Tested with Vitest and fast-check property-based tests.
+
+**[VTCompress](https://github.com/Nur-Adnan/video-compressor)** · Swift, macOS
+A native macOS app that re-encodes video on the Apple Silicon Media Engine and never goes below a measured VMAF quality threshold.
+
+## Research and teaching
+
+- Co-author of five IEEE papers on blockchain-based identity and supply-chain systems, including decentralized e-KYC. Related code: [TraceChain_BD](https://github.com/Nur-Adnan/TraceChain_BD), [E-Kyc](https://github.com/Nur-Adnan/E-Kyc), [CertiTrust](https://github.com/Nur-Adnan/EWU_CertiTrust_Frontend).
+- Studying for a master's in Artificial Intelligence at Woosong University, South Korea.
+- Former part-time web instructor at Programming Hero, where I reviewed code and helped students open their first pull requests.
+
+## Get in touch
+
+The fastest way to reach me is [email](mailto:nuradnanchowdhury015@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nur-adnan/).
