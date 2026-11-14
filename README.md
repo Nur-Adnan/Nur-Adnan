@@ -8,7 +8,7 @@ Since 2024 I've worked remotely with a US team at [ReadLoudly](https://readloudl
 
 Based in Daejeon, South Korea (UTC+9). Open to remote full-stack, frontend and React Native roles, full-time or contract.
 
-[Portfolio](https://adnan-chowdhury.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nur-adnan/) · [X](https://x.com/NurAdnanChowdhu) · [Email](mailto:nuradnanchowdhury015@gmail.com)
+[Portfolio](https://codewithadnan.com) · [Resume](https://codewithadnan.com/documents/Nur_Adnan_Chowdhury_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/nur-adnan/) · [X](https://x.com/NurAdnanChowdhu) · [Email](mailto:nuradnanchowdhury015@gmail.com)
 
 ## What I work with
 
